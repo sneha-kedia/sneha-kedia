@@ -1,16 +1,42 @@
-## Hi there 👋
+# Sneha Kedia
 
-<!--
-**sneha-kedia/sneha-kedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Microbiology researcher exploring **microbial genomics and bioinformatics**.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Microbial genomics
+* Comparative bacterial genomics
+* Probiotic bacteria
+* Genome assembly using long-read sequencing
+
+## Bioinformatics Tools
+
+NanoFilt
+Flye
+Medaka
+QUAST
+CheckM
+Bakta
+FastANI
+MUMmer
+dbCAN
+
+## Current Project
+
+Genome assembly and comparative genomics of **Bifidobacterium crudilactis NASR_001** isolated from cow milk in India.
+
+Project repository:
+
+https://github.com/sneha-kedia/bifidobacterium-genome-analysis
+
+## Skills
+
+* Genome assembly
+* Comparative genomics
+* Functional annotation
+* Bioinformatics workflow development
+
+## Contact
+
+GitHub: https://github.com/sneha-kedia
+
