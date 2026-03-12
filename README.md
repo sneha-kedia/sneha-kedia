@@ -40,3 +40,8 @@ https://github.com/sneha-kedia/bifidobacterium-genome-analysis
 
 GitHub: https://github.com/sneha-kedia
 
+## GitHub Statistics
+
+![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-kedia&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-kedia&layout=compact)
