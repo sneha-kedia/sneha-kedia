@@ -11,14 +11,14 @@ Microbiology researcher exploring **microbial genomics and bioinformatics**.
 
 ## Bioinformatics Tools
 
-NanoFilt
-Flye
-Medaka
-QUAST
-CheckM
-Bakta
-FastANI
-MUMmer
+NanoFilt,
+Flye,
+Medaka,
+QUAST,
+CheckM,
+Bakta,
+FastANI,
+MUMmer,
 dbCAN
 
 ## Current Project
