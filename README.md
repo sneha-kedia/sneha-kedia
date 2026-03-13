@@ -1,6 +1,6 @@
 # Sneha Kedia
 
-Microbiology researcher exploring **microbial genomics and bioinformatics**.
+Specialisation in **Microbial Genomics and Bioinformatics**.
 
 ## Research Interests
 
