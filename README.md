@@ -33,7 +33,7 @@ https://github.com/sneha-kedia/bifidobacterium-genome-analysis
 * Genome assembly
 * Comparative genomics
 * Functional annotation
-* Bioinformatics workflow development
+* Bioinformatics pipeline development
 
 ## Contact
 
