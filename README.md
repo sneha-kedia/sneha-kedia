@@ -6,7 +6,7 @@ Specialisation in **Microbial Genomics and Bioinformatics**.
 
 * Comparative microbial genomics
 * Probiotic bacteria
-* Genome assembly using long-read sequencing
+* Library Preparation
 
 ## Bioinformatics Tools
 
