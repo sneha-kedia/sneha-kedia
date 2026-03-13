@@ -4,8 +4,7 @@ Specialisation in **Microbial Genomics and Bioinformatics**.
 
 ## Research Interests
 
-* Microbial genomics
-* Comparative bacterial genomics
+* Comparative microbial genomics
 * Probiotic bacteria
 * Genome assembly using long-read sequencing
 
