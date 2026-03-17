@@ -22,9 +22,8 @@ dbCAN
 
 ## Projects:
 
-1)Genome assembly and comparative genomics of **Bifidobacterium crudilactis NASR_001** isolated from cow milk in India - https://github.com/sneha-kedia/bifidobacterium-genome-analysis
-
-2) Automated assembly and annotation pipeline for Bifidobacterium spp. - https://github.com/sneha-kedia/Automated-assembly-pipeline-for-Bifidobacteria
+* Genome assembly and comparative genomics of **Bifidobacterium crudilactis NASR_001** isolated from cow milk in India - https://github.com/sneha-kedia/bifidobacterium-genome-analysis
+* Automated assembly and annotation pipeline for Bifidobacterium spp. - https://github.com/sneha-kedia/Automated-assembly-pipeline-for-Bifidobacteria
 
 
 ## Skills
